@@ -1,0 +1,39 @@
+
+.div1{
+    display:flex;
+   justify-content:space-between;
+   
+}
+.box1{
+    width:300px;
+}
+.box2{
+    width: 300px;
+}
+
+.but{
+    background-color: rgb(12, 140, 245);
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+.b1{
+    background-color: rgb(12, 140, 245);
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    font-weight: bold;
+    border-radius: 8px;
+    
+}
+.b2{
+    background-color: rgb(12, 140, 245);
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    font-weight: bold;
+    border-radius: 8px;
+    display:inline-block;
+}
